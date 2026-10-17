@@ -1,0 +1,44 @@
+{
+  "id": "O05",
+  "name": "Rocha das Runas",
+  "stem": "BH_ORE_O05_Rocha_das_Runas_V02",
+  "source": "BH_ORE_O05_Rocha_das_Runas_V01.blend",
+  "nominal_scale": 1.1391,
+  "before_master": {
+    "meshes": 16,
+    "triangles": 564,
+    "dimensions": [
+      2.6376,
+      2.1712,
+      1.2
+    ]
+  },
+  "after_master": {
+    "meshes": 26,
+    "triangles": 1408,
+    "dimensions": [
+      3.0045,
+      2.4732,
+      1.3669
+    ]
+  },
+  "before_game": {
+    "meshes": 16,
+    "triangles": 468,
+    "dimensions": [
+      2.6268,
+      2.0472,
+      1.2
+    ]
+  },
+  "after_game": {
+    "meshes": 26,
+    "triangles": 1240,
+    "dimensions": [
+      2.9922,
+      2.332,
+      1.3669
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

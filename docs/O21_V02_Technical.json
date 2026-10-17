@@ -1,0 +1,44 @@
+{
+  "id": "O21",
+  "name": "Nullstone",
+  "stem": "BH_ORE_O21_Nullstone_V02",
+  "source": "BH_ORE_O21_Nullstone_V01.blend",
+  "nominal_scale": 1.2157,
+  "before_master": {
+    "meshes": 8,
+    "triangles": 416,
+    "dimensions": [
+      2.6465,
+      2.0548,
+      1.93
+    ]
+  },
+  "after_master": {
+    "meshes": 15,
+    "triangles": 1370,
+    "dimensions": [
+      3.2174,
+      2.498,
+      2.3463
+    ]
+  },
+  "before_game": {
+    "meshes": 8,
+    "triangles": 320,
+    "dimensions": [
+      2.6958,
+      2.1758,
+      1.93
+    ]
+  },
+  "after_game": {
+    "meshes": 15,
+    "triangles": 1226,
+    "dimensions": [
+      3.2773,
+      2.6451,
+      2.3463
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "P01",
+  "stem": "BH_PICK_P01_Picareta_Runica_de_Pedra_V02",
+  "master": {
+    "meshes": 19,
+    "triangles": 2120,
+    "dimensions": [
+      2.0779,
+      0.4299,
+      2.7588
+    ]
+  },
+  "game": {
+    "meshes": 19,
+    "triangles": 2120,
+    "dimensions": [
+      2.0779,
+      0.4299,
+      2.7588
+    ]
+  },
+  "aura_meshes": 7,
+  "origin": "grip reference; applied transforms"
+}

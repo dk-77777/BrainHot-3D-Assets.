@@ -1,0 +1,44 @@
+{
+  "id": "O16",
+  "name": "Rubi de Magma",
+  "stem": "BH_ORE_O16_Rubi_de_Magma_V02",
+  "source": "BH_ORE_O16_Rubi_de_Magma_V01.blend",
+  "nominal_scale": 1.1917,
+  "before_master": {
+    "meshes": 13,
+    "triangles": 948,
+    "dimensions": [
+      2.5912,
+      2.2612,
+      1.5404
+    ]
+  },
+  "after_master": {
+    "meshes": 25,
+    "triangles": 3002,
+    "dimensions": [
+      3.0879,
+      2.6947,
+      1.8357
+    ]
+  },
+  "before_game": {
+    "meshes": 12,
+    "triangles": 624,
+    "dimensions": [
+      2.5464,
+      2.2174,
+      1.5404
+    ]
+  },
+  "after_game": {
+    "meshes": 24,
+    "triangles": 2308,
+    "dimensions": [
+      3.0345,
+      2.6425,
+      1.8357
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

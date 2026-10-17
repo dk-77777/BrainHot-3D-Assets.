@@ -1,0 +1,44 @@
+{
+  "id": "O12",
+  "name": "Coração Lanternado",
+  "stem": "BH_ORE_O12_Coracao_Lanternado_V02",
+  "source": "BH_ORE_O12_Coracao_Lanternado_V01.blend",
+  "nominal_scale": 1.1726,
+  "before_master": {
+    "meshes": 7,
+    "triangles": 596,
+    "dimensions": [
+      2.6203,
+      2.1796,
+      1.57
+    ]
+  },
+  "after_master": {
+    "meshes": 13,
+    "triangles": 1104,
+    "dimensions": [
+      3.0726,
+      2.5558,
+      1.841
+    ]
+  },
+  "before_game": {
+    "meshes": 7,
+    "triangles": 484,
+    "dimensions": [
+      2.6432,
+      2.2307,
+      1.57
+    ]
+  },
+  "after_game": {
+    "meshes": 13,
+    "triangles": 958,
+    "dimensions": [
+      3.0994,
+      2.6157,
+      1.841
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "O10",
+  "name": "Gelo Fantasma",
+  "stem": "BH_ORE_O10_Gelo_Fantasma_V02",
+  "source": "BH_ORE_O10_Gelo_Fantasma_V01.blend",
+  "nominal_scale": 1.163,
+  "before_master": {
+    "meshes": 13,
+    "triangles": 732,
+    "dimensions": [
+      2.5964,
+      2.0965,
+      1.9184
+    ]
+  },
+  "after_master": {
+    "meshes": 22,
+    "triangles": 2212,
+    "dimensions": [
+      3.0196,
+      2.4382,
+      2.2311
+    ]
+  },
+  "before_game": {
+    "meshes": 13,
+    "triangles": 540,
+    "dimensions": [
+      2.5606,
+      2.0264,
+      1.9184
+    ]
+  },
+  "after_game": {
+    "meshes": 22,
+    "triangles": 1862,
+    "dimensions": [
+      2.978,
+      2.3567,
+      2.2311
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

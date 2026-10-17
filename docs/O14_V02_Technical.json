@@ -1,0 +1,44 @@
+{
+  "id": "O14",
+  "name": "Cristal de Brasa",
+  "stem": "BH_ORE_O14_Cristal_de_Brasa_V02",
+  "source": "BH_ORE_O14_Cristal_de_Brasa_V01.blend",
+  "nominal_scale": 1.1822,
+  "before_master": {
+    "meshes": 16,
+    "triangles": 1128,
+    "dimensions": [
+      2.6163,
+      2.2928,
+      1.1732
+    ]
+  },
+  "after_master": {
+    "meshes": 28,
+    "triangles": 3474,
+    "dimensions": [
+      3.093,
+      2.7105,
+      1.387
+    ]
+  },
+  "before_game": {
+    "meshes": 15,
+    "triangles": 756,
+    "dimensions": [
+      2.6799,
+      2.2617,
+      1.1732
+    ]
+  },
+  "after_game": {
+    "meshes": 27,
+    "triangles": 2698,
+    "dimensions": [
+      3.1682,
+      2.6738,
+      1.387
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

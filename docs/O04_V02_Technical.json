@@ -1,0 +1,44 @@
+{
+  "id": "O04",
+  "name": "Âmbar Espiritual",
+  "stem": "BH_ORE_O04_Ambar_Espiritual_V02",
+  "source": "Spirit_Amber_Ore.blend",
+  "nominal_scale": 1.1343,
+  "before_master": {
+    "meshes": 24,
+    "triangles": 1668,
+    "dimensions": [
+      2.8301,
+      2.935,
+      1.8168
+    ]
+  },
+  "after_master": {
+    "meshes": 28,
+    "triangles": 3232,
+    "dimensions": [
+      3.2102,
+      3.3292,
+      2.0608
+    ]
+  },
+  "before_game": {
+    "meshes": 14,
+    "triangles": 692,
+    "dimensions": [
+      2.6174,
+      2.9464,
+      1.814
+    ]
+  },
+  "after_game": {
+    "meshes": 20,
+    "triangles": 2078,
+    "dimensions": [
+      2.9689,
+      3.3421,
+      2.0576
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

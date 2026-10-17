@@ -1,0 +1,44 @@
+{
+  "id": "O11",
+  "name": "Eclipse Enjaulado",
+  "stem": "BH_ORE_O11_Eclipse_Enjaulado_V02",
+  "source": "BH_ORE_O11_Eclipse_Enjaulado_V01.blend",
+  "nominal_scale": 1.1678,
+  "before_master": {
+    "meshes": 6,
+    "triangles": 692,
+    "dimensions": [
+      2.5823,
+      2.2905,
+      1.8571
+    ]
+  },
+  "after_master": {
+    "meshes": 12,
+    "triangles": 1448,
+    "dimensions": [
+      3.0156,
+      2.6748,
+      2.1687
+    ]
+  },
+  "before_game": {
+    "meshes": 6,
+    "triangles": 596,
+    "dimensions": [
+      2.6265,
+      2.1693,
+      1.8571
+    ]
+  },
+  "after_game": {
+    "meshes": 12,
+    "triangles": 1314,
+    "dimensions": [
+      3.0672,
+      2.5333,
+      2.1687
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

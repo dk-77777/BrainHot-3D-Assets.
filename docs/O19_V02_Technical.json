@@ -1,0 +1,44 @@
+{
+  "id": "O19",
+  "name": "Fragmento Vazio",
+  "stem": "BH_ORE_O19_Fragmento_Vazio_V02",
+  "source": "BH_ORE_O19_Fragmento_Vazio_V01.blend",
+  "nominal_scale": 1.2061,
+  "before_master": {
+    "meshes": 9,
+    "triangles": 416,
+    "dimensions": [
+      2.5023,
+      2.0431,
+      1.22
+    ]
+  },
+  "after_master": {
+    "meshes": 18,
+    "triangles": 1476,
+    "dimensions": [
+      3.018,
+      2.4642,
+      1.4714
+    ]
+  },
+  "before_game": {
+    "meshes": 9,
+    "triangles": 320,
+    "dimensions": [
+      2.6013,
+      1.9302,
+      1.22
+    ]
+  },
+  "after_game": {
+    "meshes": 18,
+    "triangles": 1332,
+    "dimensions": [
+      3.1374,
+      2.328,
+      1.4714
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

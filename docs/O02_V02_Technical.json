@@ -1,0 +1,44 @@
+{
+  "id": "O02",
+  "name": "Quartzo de Abóbora",
+  "stem": "BH_ORE_O02_Quartzo_de_Abobora_V02",
+  "source": "BH_ORE_O02_Quartzo_de_Abobora_V01.blend",
+  "nominal_scale": 1.1248,
+  "before_master": {
+    "meshes": 7,
+    "triangles": 464,
+    "dimensions": [
+      2.5921,
+      2.2375,
+      1.35
+    ]
+  },
+  "after_master": {
+    "meshes": 13,
+    "triangles": 1438,
+    "dimensions": [
+      2.9156,
+      2.5167,
+      1.5185
+    ]
+  },
+  "before_game": {
+    "meshes": 7,
+    "triangles": 352,
+    "dimensions": [
+      2.5879,
+      2.0612,
+      1.35
+    ]
+  },
+  "after_game": {
+    "meshes": 13,
+    "triangles": 1234,
+    "dimensions": [
+      2.9109,
+      2.3184,
+      1.5185
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

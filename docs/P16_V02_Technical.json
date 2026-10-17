@@ -1,0 +1,24 @@
+{
+  "id": "P16",
+  "stem": "BH_PICK_P16_Fragmento_Void_V02",
+  "master": {
+    "meshes": 18,
+    "triangles": 1068,
+    "dimensions": [
+      2.5995,
+      0.3916,
+      3.4361
+    ]
+  },
+  "game": {
+    "meshes": 18,
+    "triangles": 1068,
+    "dimensions": [
+      2.5995,
+      0.3916,
+      3.4361
+    ]
+  },
+  "aura_meshes": 7,
+  "origin": "grip reference; applied transforms"
+}

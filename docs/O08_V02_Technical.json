@@ -1,0 +1,44 @@
+{
+  "id": "O08",
+  "name": "Quartzo Espectral",
+  "stem": "BH_ORE_O08_Quartzo_Espectral_V02",
+  "source": "BH_ORE_O08_Quartzo_Espectral_V01.blend",
+  "nominal_scale": 1.1535,
+  "before_master": {
+    "meshes": 9,
+    "triangles": 636,
+    "dimensions": [
+      2.7686,
+      2.1466,
+      2.102
+    ]
+  },
+  "after_master": {
+    "meshes": 18,
+    "triangles": 1956,
+    "dimensions": [
+      3.1936,
+      2.4761,
+      2.4247
+    ]
+  },
+  "before_game": {
+    "meshes": 9,
+    "triangles": 460,
+    "dimensions": [
+      2.6514,
+      2.0951,
+      2.102
+    ]
+  },
+  "after_game": {
+    "meshes": 18,
+    "triangles": 1592,
+    "dimensions": [
+      3.0584,
+      2.4167,
+      2.4247
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

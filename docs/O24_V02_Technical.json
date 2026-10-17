@@ -1,0 +1,44 @@
+{
+  "id": "O24",
+  "name": "Coração do Horizonte",
+  "stem": "BH_ORE_O24_Coracao_do_Horizonte_V02",
+  "source": "BH_ORE_O24_Coracao_do_Horizonte_V01.blend",
+  "nominal_scale": 1.23,
+  "before_master": {
+    "meshes": 12,
+    "triangles": 816,
+    "dimensions": [
+      2.5671,
+      2.1625,
+      2.52
+    ]
+  },
+  "after_master": {
+    "meshes": 30,
+    "triangles": 2758,
+    "dimensions": [
+      3.1575,
+      2.6599,
+      3.0996
+    ]
+  },
+  "before_game": {
+    "meshes": 12,
+    "triangles": 592,
+    "dimensions": [
+      2.4472,
+      2.1448,
+      2.52
+    ]
+  },
+  "after_game": {
+    "meshes": 30,
+    "triangles": 2304,
+    "dimensions": [
+      3.0101,
+      2.6381,
+      3.0996
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

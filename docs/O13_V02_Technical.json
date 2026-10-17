@@ -1,0 +1,44 @@
+{
+  "id": "O13",
+  "name": "Ferro das Cinzas",
+  "stem": "BH_ORE_O13_Ferro_das_Cinzas_V02",
+  "source": "BH_ORE_O13_Ferro_das_Cinzas_V01.blend",
+  "nominal_scale": 1.1774,
+  "before_master": {
+    "meshes": 17,
+    "triangles": 1248,
+    "dimensions": [
+      2.6271,
+      2.3064,
+      0.79
+    ]
+  },
+  "after_master": {
+    "meshes": 23,
+    "triangles": 3312,
+    "dimensions": [
+      3.0931,
+      2.7156,
+      0.9301
+    ]
+  },
+  "before_game": {
+    "meshes": 16,
+    "triangles": 852,
+    "dimensions": [
+      2.562,
+      2.086,
+      0.79
+    ]
+  },
+  "after_game": {
+    "meshes": 22,
+    "triangles": 2556,
+    "dimensions": [
+      3.0165,
+      2.4561,
+      0.9301
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

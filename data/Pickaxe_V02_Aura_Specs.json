@@ -1,0 +1,10 @@
+{
+  "status": "design specification and static mesh previews; no Roblox runtime implementation",
+  "main_glb_excludes_aura": true,
+  "P01": {"trigger": "authorized impact only", "particles_per_burst": 7, "lifetime_seconds": [0.12,0.28], "colors": ["#269EB8"], "motion": "short stone grains; no passive loop", "preview": "small cyan grains at left tooth"},
+  "P05": {"trigger": "authorized swing/impact", "particles_per_burst": 9, "lifetime_seconds": [0.25,0.6], "colors": ["#38B838","#45126E"], "motion": "green embers, one dry leaf, two narrow violet wisps", "preview": "leaf and wisp meshes"},
+  "P06": {"trigger": "authorized swing/impact", "particles_per_burst": 2, "lifetime_seconds": [0.3,0.65], "colors": ["#29E0EB"], "motion": "two orbital sparks; three restrained cyan mist ribbons", "preview": "thin cyan ribbons and two soul sparks"},
+  "P12": {"trigger": "authorized impact", "particles_per_burst": 18, "lifetime_seconds": [0.15,0.45], "colors": ["#FF5205","#D11202"], "motion": "upward short embers and two heat shimmer traces", "preview": "ember meshes and thin heat arcs"},
+  "P16": {"trigger": "authorized impact", "particles_per_burst": 4, "lifetime_seconds": [0.25,0.55], "colors": ["#6B17C7"], "motion": "triangular fragments with interrupted pulse; no free physics", "preview": "four orbital triangles and three incomplete arcs"},
+  "roblox_notes": ["No gameplay collider on aura fragments.","Use low-motion/LOW variant without orbit or shimmer.","Do not treat Blender preview meshes as already configured ParticleEmitters."]
+}

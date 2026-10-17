@@ -1,0 +1,56 @@
+{
+  "method": "Front orthographic, same units/grip origin, no aura, pure black masks; overlap is an aid, not an artistic approval.",
+  "pairs": [
+    {
+      "a": "P01",
+      "b": "P05",
+      "intersection_over_union": 0.448
+    },
+    {
+      "a": "P01",
+      "b": "P06",
+      "intersection_over_union": 0.4073
+    },
+    {
+      "a": "P01",
+      "b": "P12",
+      "intersection_over_union": 0.4755
+    },
+    {
+      "a": "P01",
+      "b": "P16",
+      "intersection_over_union": 0.3441
+    },
+    {
+      "a": "P05",
+      "b": "P06",
+      "intersection_over_union": 0.3279
+    },
+    {
+      "a": "P05",
+      "b": "P12",
+      "intersection_over_union": 0.4704
+    },
+    {
+      "a": "P05",
+      "b": "P16",
+      "intersection_over_union": 0.4377
+    },
+    {
+      "a": "P06",
+      "b": "P12",
+      "intersection_over_union": 0.4054
+    },
+    {
+      "a": "P06",
+      "b": "P16",
+      "intersection_over_union": 0.28
+    },
+    {
+      "a": "P12",
+      "b": "P16",
+      "intersection_over_union": 0.3916
+    }
+  ],
+  "max_overlap": 0.4755
+}

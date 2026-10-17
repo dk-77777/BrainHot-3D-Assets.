@@ -1,0 +1,44 @@
+{
+  "id": "O09",
+  "name": "Safira Sepulcral",
+  "stem": "BH_ORE_O09_Safira_Sepulcral_V02",
+  "source": "BH_ORE_O09_Safira_Sepulcral_V01.blend",
+  "nominal_scale": 1.1583,
+  "before_master": {
+    "meshes": 11,
+    "triangles": 908,
+    "dimensions": [
+      2.5264,
+      2.2668,
+      1.19
+    ]
+  },
+  "after_master": {
+    "meshes": 18,
+    "triangles": 2642,
+    "dimensions": [
+      2.9263,
+      2.6256,
+      1.3784
+    ]
+  },
+  "before_game": {
+    "meshes": 11,
+    "triangles": 740,
+    "dimensions": [
+      2.4461,
+      2.1787,
+      1.19
+    ]
+  },
+  "after_game": {
+    "meshes": 18,
+    "triangles": 2310,
+    "dimensions": [
+      2.8333,
+      2.5236,
+      1.3784
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "O06",
+  "name": "Ametista de Colheita",
+  "stem": "BH_ORE_O06_Ametista_de_Colheita_V02",
+  "source": "BH_ORE_O06_Ametista_de_Colheita_V01.blend",
+  "nominal_scale": 1.1439,
+  "before_master": {
+    "meshes": 8,
+    "triangles": 576,
+    "dimensions": [
+      2.476,
+      2.1711,
+      1.57
+    ]
+  },
+  "after_master": {
+    "meshes": 14,
+    "triangles": 1644,
+    "dimensions": [
+      2.8323,
+      2.4835,
+      1.7959
+    ]
+  },
+  "before_game": {
+    "meshes": 8,
+    "triangles": 416,
+    "dimensions": [
+      2.5536,
+      2.1421,
+      1.57
+    ]
+  },
+  "after_game": {
+    "meshes": 14,
+    "triangles": 1344,
+    "dimensions": [
+      2.9211,
+      2.4503,
+      1.7959
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}
