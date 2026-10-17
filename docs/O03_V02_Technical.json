@@ -1,0 +1,44 @@
+{
+  "id": "O03",
+  "name": "Cristal Crepuscular",
+  "stem": "BH_ORE_O03_Cristal_Crepuscular_V02",
+  "source": "Twilight_Crystal_Ore.blend",
+  "nominal_scale": 1.1296,
+  "before_master": {
+    "meshes": 29,
+    "triangles": 1808,
+    "dimensions": [
+      3.0174,
+      2.8947,
+      2.3776
+    ]
+  },
+  "after_master": {
+    "meshes": 34,
+    "triangles": 4116,
+    "dimensions": [
+      3.4085,
+      3.2699,
+      2.6857
+    ]
+  },
+  "before_game": {
+    "meshes": 18,
+    "triangles": 836,
+    "dimensions": [
+      2.9473,
+      3.0114,
+      2.3504
+    ]
+  },
+  "after_game": {
+    "meshes": 24,
+    "triangles": 2300,
+    "dimensions": [
+      3.3293,
+      3.4017,
+      2.655
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

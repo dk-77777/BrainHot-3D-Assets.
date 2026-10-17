@@ -1,0 +1,44 @@
+{
+  "id": "O23",
+  "name": "Singularidade Lapidada",
+  "stem": "BH_ORE_O23_Singularidade_Lapidada_V02",
+  "source": "BH_ORE_O23_Singularidade_Lapidada_V01.blend",
+  "nominal_scale": 1.2252,
+  "before_master": {
+    "meshes": 7,
+    "triangles": 576,
+    "dimensions": [
+      2.5404,
+      2.179,
+      1.8571
+    ]
+  },
+  "after_master": {
+    "meshes": 16,
+    "triangles": 1490,
+    "dimensions": [
+      3.1125,
+      2.6697,
+      2.2753
+    ]
+  },
+  "before_game": {
+    "meshes": 7,
+    "triangles": 480,
+    "dimensions": [
+      2.4778,
+      2.1311,
+      1.8571
+    ]
+  },
+  "after_game": {
+    "meshes": 16,
+    "triangles": 1354,
+    "dimensions": [
+      3.0358,
+      2.611,
+      2.2753
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "P06",
+  "stem": "BH_PICK_P06_Presa_Espectral_V02",
+  "master": {
+    "meshes": 17,
+    "triangles": 1554,
+    "dimensions": [
+      2.4557,
+      0.3306,
+      3.4692
+    ]
+  },
+  "game": {
+    "meshes": 17,
+    "triangles": 1554,
+    "dimensions": [
+      2.4557,
+      0.3306,
+      3.4692
+    ]
+  },
+  "aura_meshes": 8,
+  "origin": "grip reference; applied transforms"
+}

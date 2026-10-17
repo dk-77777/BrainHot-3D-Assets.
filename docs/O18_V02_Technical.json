@@ -1,0 +1,44 @@
+{
+  "id": "O18",
+  "name": "Escória Demoníaca",
+  "stem": "BH_ORE_O18_Escoria_Demoniaca_V02",
+  "source": "BH_ORE_O18_Escoria_Demoniaca_V01.blend",
+  "nominal_scale": 1.2013,
+  "before_master": {
+    "meshes": 20,
+    "triangles": 1428,
+    "dimensions": [
+      2.6289,
+      2.2886,
+      1.0652
+    ]
+  },
+  "after_master": {
+    "meshes": 26,
+    "triangles": 3840,
+    "dimensions": [
+      3.1581,
+      2.7493,
+      1.2796
+    ]
+  },
+  "before_game": {
+    "meshes": 19,
+    "triangles": 984,
+    "dimensions": [
+      2.6725,
+      2.1493,
+      1.0652
+    ]
+  },
+  "after_game": {
+    "meshes": 25,
+    "triangles": 2864,
+    "dimensions": [
+      3.2105,
+      2.582,
+      1.2796
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

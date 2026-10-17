@@ -1,0 +1,44 @@
+{
+  "id": "O15",
+  "name": "Obsidiana Ritual",
+  "stem": "BH_ORE_O15_Obsidiana_Ritual_V02",
+  "source": "BH_ORE_O15_Obsidiana_Ritual_V01.blend",
+  "nominal_scale": 1.187,
+  "before_master": {
+    "meshes": 15,
+    "triangles": 684,
+    "dimensions": [
+      2.5685,
+      2.3438,
+      1.3772
+    ]
+  },
+  "after_master": {
+    "meshes": 26,
+    "triangles": 2232,
+    "dimensions": [
+      3.0488,
+      2.7821,
+      1.6347
+    ]
+  },
+  "before_game": {
+    "meshes": 14,
+    "triangles": 456,
+    "dimensions": [
+      2.5523,
+      2.1612,
+      1.3772
+    ]
+  },
+  "after_game": {
+    "meshes": 25,
+    "triangles": 1796,
+    "dimensions": [
+      3.0296,
+      2.5653,
+      1.6347
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

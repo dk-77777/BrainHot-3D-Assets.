@@ -1,0 +1,44 @@
+{
+  "id": "O01",
+  "name": "Pedra Brumosa",
+  "stem": "BH_ORE_O01_Pedra_Brumosa_V02",
+  "source": "BH_ORE_O01_Pedra_Brumosa_V01.blend",
+  "nominal_scale": 1.12,
+  "before_master": {
+    "meshes": 17,
+    "triangles": 1248,
+    "dimensions": [
+      2.6448,
+      2.2872,
+      0.79
+    ]
+  },
+  "after_master": {
+    "meshes": 20,
+    "triangles": 3196,
+    "dimensions": [
+      2.9622,
+      2.5617,
+      0.8848
+    ]
+  },
+  "before_game": {
+    "meshes": 16,
+    "triangles": 852,
+    "dimensions": [
+      2.6138,
+      2.2913,
+      0.79
+    ]
+  },
+  "after_game": {
+    "meshes": 19,
+    "triangles": 2452,
+    "dimensions": [
+      2.9275,
+      2.5663,
+      0.8848
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

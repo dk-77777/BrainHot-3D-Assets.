@@ -1,0 +1,44 @@
+{
+  "id": "O20",
+  "name": "Cristal Anômalo",
+  "stem": "BH_ORE_O20_Cristal_Anomalo_V02",
+  "source": "BH_ORE_O20_Cristal_Anomalo_V01.blend",
+  "nominal_scale": 1.2109,
+  "before_master": {
+    "meshes": 10,
+    "triangles": 476,
+    "dimensions": [
+      2.6886,
+      2.1467,
+      1.96
+    ]
+  },
+  "after_master": {
+    "meshes": 23,
+    "triangles": 1862,
+    "dimensions": [
+      3.2556,
+      2.5994,
+      2.3734
+    ]
+  },
+  "before_game": {
+    "meshes": 10,
+    "triangles": 364,
+    "dimensions": [
+      2.5211,
+      2.2095,
+      1.96
+    ]
+  },
+  "after_game": {
+    "meshes": 23,
+    "triangles": 1626,
+    "dimensions": [
+      3.0528,
+      2.6755,
+      2.3734
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

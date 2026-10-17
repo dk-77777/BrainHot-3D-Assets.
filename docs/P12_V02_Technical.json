@@ -1,0 +1,24 @@
+{
+  "id": "P12",
+  "stem": "BH_PICK_P12_Picareta_de_Magma_Profano_V02",
+  "master": {
+    "meshes": 20,
+    "triangles": 2442,
+    "dimensions": [
+      2.307,
+      0.5687,
+      3.4366
+    ]
+  },
+  "game": {
+    "meshes": 20,
+    "triangles": 2442,
+    "dimensions": [
+      2.307,
+      0.5687,
+      3.4366
+    ]
+  },
+  "aura_meshes": 20,
+  "origin": "grip reference; applied transforms"
+}

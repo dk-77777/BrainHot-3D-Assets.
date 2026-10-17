@@ -1,0 +1,44 @@
+{
+  "id": "O17",
+  "name": "Núcleo Infernal",
+  "stem": "BH_ORE_O17_Nucleo_Infernal_V02",
+  "source": "BH_ORE_O17_Nucleo_Infernal_V01.blend",
+  "nominal_scale": 1.1965,
+  "before_master": {
+    "meshes": 6,
+    "triangles": 564,
+    "dimensions": [
+      2.5955,
+      2.1273,
+      1.8571
+    ]
+  },
+  "after_master": {
+    "meshes": 15,
+    "triangles": 1452,
+    "dimensions": [
+      3.1055,
+      2.5453,
+      2.222
+    ]
+  },
+  "before_game": {
+    "meshes": 6,
+    "triangles": 468,
+    "dimensions": [
+      2.5208,
+      2.0475,
+      1.8571
+    ]
+  },
+  "after_game": {
+    "meshes": 15,
+    "triangles": 1292,
+    "dimensions": [
+      3.0161,
+      2.4498,
+      2.222
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}

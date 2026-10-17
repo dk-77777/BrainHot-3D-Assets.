@@ -1,0 +1,44 @@
+{
+  "id": "O07",
+  "name": "Pedra Lunar",
+  "stem": "BH_ORE_O07_Pedra_Lunar_V02",
+  "source": "BH_ORE_O07_Pedra_Lunar_V01.blend",
+  "nominal_scale": 1.1487,
+  "before_master": {
+    "meshes": 10,
+    "triangles": 1140,
+    "dimensions": [
+      2.4658,
+      2.1116,
+      1.13
+    ]
+  },
+  "after_master": {
+    "meshes": 7,
+    "triangles": 2114,
+    "dimensions": [
+      2.8325,
+      2.4256,
+      1.298
+    ]
+  },
+  "before_game": {
+    "meshes": 8,
+    "triangles": 732,
+    "dimensions": [
+      2.5092,
+      2.1406,
+      1.13
+    ]
+  },
+  "after_game": {
+    "meshes": 7,
+    "triangles": 1824,
+    "dimensions": [
+      2.8823,
+      2.4589,
+      1.298
+    ]
+  },
+  "notes": "Original layouts retained; contrast, edge finish, secondary elements and surface-projected seams refined."
+}
