@@ -1,0 +1,1457 @@
+{
+  "validated": 50,
+  "expected": 50,
+  "errors": [],
+  "assets": [
+    {
+      "id": "O01",
+      "name": "Pedra Brumosa",
+      "stem": "BH_ORE_O01_Pedra_Brumosa_V01",
+      "master": {
+        "meshes": 17,
+        "triangles": 1248,
+        "dimensions": [
+          2.645,
+          2.287,
+          0.79
+        ]
+      },
+      "game": {
+        "meshes": 16,
+        "triangles": 852,
+        "dimensions": [
+          2.614,
+          2.291,
+          0.79
+        ]
+      },
+      "glb_triangles": 852,
+      "render_bytes": [
+        2096856,
+        2091053,
+        1929102
+      ]
+    },
+    {
+      "id": "O02",
+      "name": "Quartzo de Abóbora",
+      "stem": "BH_ORE_O02_Quartzo_de_Abobora_V01",
+      "master": {
+        "meshes": 7,
+        "triangles": 464,
+        "dimensions": [
+          2.592,
+          2.238,
+          1.35
+        ]
+      },
+      "game": {
+        "meshes": 7,
+        "triangles": 352,
+        "dimensions": [
+          2.588,
+          2.061,
+          1.35
+        ]
+      },
+      "glb_triangles": 352,
+      "render_bytes": [
+        2158228,
+        2163754,
+        1984279
+      ]
+    },
+    {
+      "id": "O05",
+      "name": "Rocha das Runas",
+      "stem": "BH_ORE_O05_Rocha_das_Runas_V01",
+      "master": {
+        "meshes": 16,
+        "triangles": 564,
+        "dimensions": [
+          2.638,
+          2.171,
+          1.2
+        ]
+      },
+      "game": {
+        "meshes": 16,
+        "triangles": 468,
+        "dimensions": [
+          2.627,
+          2.047,
+          1.2
+        ]
+      },
+      "glb_triangles": 468,
+      "render_bytes": [
+        2141644,
+        2131082,
+        1974173
+      ]
+    },
+    {
+      "id": "O06",
+      "name": "Ametista de Colheita",
+      "stem": "BH_ORE_O06_Ametista_de_Colheita_V01",
+      "master": {
+        "meshes": 8,
+        "triangles": 576,
+        "dimensions": [
+          2.476,
+          2.171,
+          1.57
+        ]
+      },
+      "game": {
+        "meshes": 8,
+        "triangles": 416,
+        "dimensions": [
+          2.554,
+          2.142,
+          1.57
+        ]
+      },
+      "glb_triangles": 416,
+      "render_bytes": [
+        2190170,
+        2197700,
+        2018850
+      ]
+    },
+    {
+      "id": "O07",
+      "name": "Pedra Lunar",
+      "stem": "BH_ORE_O07_Pedra_Lunar_V01",
+      "master": {
+        "meshes": 10,
+        "triangles": 1140,
+        "dimensions": [
+          2.466,
+          2.112,
+          1.13
+        ]
+      },
+      "game": {
+        "meshes": 8,
+        "triangles": 732,
+        "dimensions": [
+          2.509,
+          2.141,
+          1.13
+        ]
+      },
+      "glb_triangles": 732,
+      "render_bytes": [
+        2098549,
+        2086808,
+        1946536
+      ]
+    },
+    {
+      "id": "O08",
+      "name": "Quartzo Espectral",
+      "stem": "BH_ORE_O08_Quartzo_Espectral_V01",
+      "master": {
+        "meshes": 9,
+        "triangles": 636,
+        "dimensions": [
+          2.769,
+          2.147,
+          2.102
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 460,
+        "dimensions": [
+          2.651,
+          2.095,
+          2.102
+        ]
+      },
+      "glb_triangles": 460,
+      "render_bytes": [
+        2190963,
+        2174825,
+        2027197
+      ]
+    },
+    {
+      "id": "O09",
+      "name": "Safira Sepulcral",
+      "stem": "BH_ORE_O09_Safira_Sepulcral_V01",
+      "master": {
+        "meshes": 11,
+        "triangles": 908,
+        "dimensions": [
+          2.526,
+          2.267,
+          1.19
+        ]
+      },
+      "game": {
+        "meshes": 11,
+        "triangles": 740,
+        "dimensions": [
+          2.446,
+          2.179,
+          1.19
+        ]
+      },
+      "glb_triangles": 740,
+      "render_bytes": [
+        2142106,
+        2127444,
+        1970215
+      ]
+    },
+    {
+      "id": "O10",
+      "name": "Gelo Fantasma",
+      "stem": "BH_ORE_O10_Gelo_Fantasma_V01",
+      "master": {
+        "meshes": 13,
+        "triangles": 732,
+        "dimensions": [
+          2.596,
+          2.097,
+          1.918
+        ]
+      },
+      "game": {
+        "meshes": 13,
+        "triangles": 540,
+        "dimensions": [
+          2.561,
+          2.026,
+          1.918
+        ]
+      },
+      "glb_triangles": 540,
+      "render_bytes": [
+        2168551,
+        2152724,
+        2022627
+      ]
+    },
+    {
+      "id": "O11",
+      "name": "Eclipse Enjaulado",
+      "stem": "BH_ORE_O11_Eclipse_Enjaulado_V01",
+      "master": {
+        "meshes": 6,
+        "triangles": 692,
+        "dimensions": [
+          2.582,
+          2.29,
+          1.857
+        ]
+      },
+      "game": {
+        "meshes": 6,
+        "triangles": 596,
+        "dimensions": [
+          2.627,
+          2.169,
+          1.857
+        ]
+      },
+      "glb_triangles": 596,
+      "render_bytes": [
+        2178374,
+        2167705,
+        2022149
+      ]
+    },
+    {
+      "id": "O12",
+      "name": "Coração Lanternado",
+      "stem": "BH_ORE_O12_Coracao_Lanternado_V01",
+      "master": {
+        "meshes": 7,
+        "triangles": 596,
+        "dimensions": [
+          2.62,
+          2.18,
+          1.57
+        ]
+      },
+      "game": {
+        "meshes": 7,
+        "triangles": 484,
+        "dimensions": [
+          2.643,
+          2.231,
+          1.57
+        ]
+      },
+      "glb_triangles": 484,
+      "render_bytes": [
+        2156346,
+        2149998,
+        1984784
+      ]
+    },
+    {
+      "id": "O13",
+      "name": "Ferro das Cinzas",
+      "stem": "BH_ORE_O13_Ferro_das_Cinzas_V01",
+      "master": {
+        "meshes": 17,
+        "triangles": 1248,
+        "dimensions": [
+          2.627,
+          2.306,
+          0.79
+        ]
+      },
+      "game": {
+        "meshes": 16,
+        "triangles": 852,
+        "dimensions": [
+          2.562,
+          2.086,
+          0.79
+        ]
+      },
+      "glb_triangles": 852,
+      "render_bytes": [
+        2120607,
+        2117468,
+        1942290
+      ]
+    },
+    {
+      "id": "O14",
+      "name": "Cristal de Brasa",
+      "stem": "BH_ORE_O14_Cristal_de_Brasa_V01",
+      "master": {
+        "meshes": 16,
+        "triangles": 1128,
+        "dimensions": [
+          2.616,
+          2.293,
+          1.173
+        ]
+      },
+      "game": {
+        "meshes": 15,
+        "triangles": 756,
+        "dimensions": [
+          2.68,
+          2.262,
+          1.173
+        ]
+      },
+      "glb_triangles": 756,
+      "render_bytes": [
+        2170386,
+        2167336,
+        1997535
+      ]
+    },
+    {
+      "id": "O15",
+      "name": "Obsidiana Ritual",
+      "stem": "BH_ORE_O15_Obsidiana_Ritual_V01",
+      "master": {
+        "meshes": 15,
+        "triangles": 684,
+        "dimensions": [
+          2.568,
+          2.344,
+          1.377
+        ]
+      },
+      "game": {
+        "meshes": 14,
+        "triangles": 456,
+        "dimensions": [
+          2.552,
+          2.161,
+          1.377
+        ]
+      },
+      "glb_triangles": 456,
+      "render_bytes": [
+        2135417,
+        2123388,
+        1949356
+      ]
+    },
+    {
+      "id": "O16",
+      "name": "Rubi de Magma",
+      "stem": "BH_ORE_O16_Rubi_de_Magma_V01",
+      "master": {
+        "meshes": 13,
+        "triangles": 948,
+        "dimensions": [
+          2.591,
+          2.261,
+          1.54
+        ]
+      },
+      "game": {
+        "meshes": 12,
+        "triangles": 624,
+        "dimensions": [
+          2.546,
+          2.217,
+          1.54
+        ]
+      },
+      "glb_triangles": 624,
+      "render_bytes": [
+        2215002,
+        2214495,
+        2047159
+      ]
+    },
+    {
+      "id": "O17",
+      "name": "Núcleo Infernal",
+      "stem": "BH_ORE_O17_Nucleo_Infernal_V01",
+      "master": {
+        "meshes": 6,
+        "triangles": 564,
+        "dimensions": [
+          2.595,
+          2.127,
+          1.857
+        ]
+      },
+      "game": {
+        "meshes": 6,
+        "triangles": 468,
+        "dimensions": [
+          2.521,
+          2.047,
+          1.857
+        ]
+      },
+      "glb_triangles": 468,
+      "render_bytes": [
+        2163298,
+        2155938,
+        1987781
+      ]
+    },
+    {
+      "id": "O18",
+      "name": "Escória Demoníaca",
+      "stem": "BH_ORE_O18_Escoria_Demoniaca_V01",
+      "master": {
+        "meshes": 20,
+        "triangles": 1428,
+        "dimensions": [
+          2.629,
+          2.289,
+          1.065
+        ]
+      },
+      "game": {
+        "meshes": 19,
+        "triangles": 984,
+        "dimensions": [
+          2.673,
+          2.149,
+          1.065
+        ]
+      },
+      "glb_triangles": 984,
+      "render_bytes": [
+        2145984,
+        2140720,
+        1964444
+      ]
+    },
+    {
+      "id": "O19",
+      "name": "Fragmento Vazio",
+      "stem": "BH_ORE_O19_Fragmento_Vazio_V01",
+      "master": {
+        "meshes": 9,
+        "triangles": 416,
+        "dimensions": [
+          2.502,
+          2.043,
+          1.22
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 320,
+        "dimensions": [
+          2.601,
+          1.93,
+          1.22
+        ]
+      },
+      "glb_triangles": 320,
+      "render_bytes": [
+        2143396,
+        2130700,
+        1955235
+      ]
+    },
+    {
+      "id": "O20",
+      "name": "Cristal Anômalo",
+      "stem": "BH_ORE_O20_Cristal_Anomalo_V01",
+      "master": {
+        "meshes": 10,
+        "triangles": 476,
+        "dimensions": [
+          2.689,
+          2.147,
+          1.96
+        ]
+      },
+      "game": {
+        "meshes": 10,
+        "triangles": 364,
+        "dimensions": [
+          2.521,
+          2.21,
+          1.96
+        ]
+      },
+      "glb_triangles": 364,
+      "render_bytes": [
+        2138796,
+        2133676,
+        1996062
+      ]
+    },
+    {
+      "id": "O21",
+      "name": "Nullstone",
+      "stem": "BH_ORE_O21_Nullstone_V01",
+      "master": {
+        "meshes": 8,
+        "triangles": 416,
+        "dimensions": [
+          2.646,
+          2.055,
+          1.93
+        ]
+      },
+      "game": {
+        "meshes": 8,
+        "triangles": 320,
+        "dimensions": [
+          2.696,
+          2.176,
+          1.93
+        ]
+      },
+      "glb_triangles": 320,
+      "render_bytes": [
+        2111979,
+        2106655,
+        1929859
+      ]
+    },
+    {
+      "id": "O22",
+      "name": "Prisma Galáctico",
+      "stem": "BH_ORE_O22_Prisma_Galactico_V01",
+      "master": {
+        "meshes": 11,
+        "triangles": 756,
+        "dimensions": [
+          2.551,
+          2.204,
+          2.52
+        ]
+      },
+      "game": {
+        "meshes": 11,
+        "triangles": 548,
+        "dimensions": [
+          2.581,
+          2.088,
+          2.52
+        ]
+      },
+      "glb_triangles": 548,
+      "render_bytes": [
+        2204450,
+        2214155,
+        2045615
+      ]
+    },
+    {
+      "id": "O23",
+      "name": "Singularidade Lapidada",
+      "stem": "BH_ORE_O23_Singularidade_Lapidada_V01",
+      "master": {
+        "meshes": 7,
+        "triangles": 576,
+        "dimensions": [
+          2.54,
+          2.179,
+          1.857
+        ]
+      },
+      "game": {
+        "meshes": 7,
+        "triangles": 480,
+        "dimensions": [
+          2.478,
+          2.131,
+          1.857
+        ]
+      },
+      "glb_triangles": 480,
+      "render_bytes": [
+        2134312,
+        2126882,
+        1960658
+      ]
+    },
+    {
+      "id": "O24",
+      "name": "Coração do Horizonte",
+      "stem": "BH_ORE_O24_Coracao_do_Horizonte_V01",
+      "master": {
+        "meshes": 12,
+        "triangles": 816,
+        "dimensions": [
+          2.567,
+          2.163,
+          2.52
+        ]
+      },
+      "game": {
+        "meshes": 12,
+        "triangles": 592,
+        "dimensions": [
+          2.447,
+          2.145,
+          2.52
+        ]
+      },
+      "glb_triangles": 592,
+      "render_bytes": [
+        2163010,
+        2180089,
+        2020286
+      ]
+    },
+    {
+      "id": "P01",
+      "name": "Picareta Rúnica de Pedra",
+      "stem": "BH_PICK_P01_Picareta_Runica_de_Pedra_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          1.601,
+          0.44,
+          2.32
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          1.601,
+          0.44,
+          2.32
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1029295,
+        1021615,
+        1046281
+      ]
+    },
+    {
+      "id": "P02",
+      "name": "Picareta de Cobre Encantado",
+      "stem": "BH_PICK_P02_Picareta_de_Cobre_Encantado_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          1.741,
+          0.44,
+          2.32
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          1.741,
+          0.44,
+          2.32
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1039046,
+        1029711,
+        1051434
+      ]
+    },
+    {
+      "id": "P03",
+      "name": "Picareta Abóbora Bruta",
+      "stem": "BH_PICK_P03_Picareta_Abobora_Bruta_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          1.841,
+          0.53,
+          2.37
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          1.841,
+          0.53,
+          2.37
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1033384,
+        1032961,
+        1049294
+      ]
+    },
+    {
+      "id": "P04",
+      "name": "Picareta de Cristal Brumoso",
+      "stem": "BH_PICK_P04_Picareta_de_Cristal_Brumoso_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          1.661,
+          0.491,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          1.661,
+          0.49,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1029547,
+        1024394,
+        1049881
+      ]
+    },
+    {
+      "id": "P05",
+      "name": "Colheita Sombria",
+      "stem": "BH_PICK_P05_Colheita_Sombria_V01",
+      "master": {
+        "meshes": 17,
+        "triangles": 1184,
+        "dimensions": [
+          2.042,
+          0.44,
+          2.725
+        ]
+      },
+      "game": {
+        "meshes": 12,
+        "triangles": 808,
+        "dimensions": [
+          2.042,
+          0.44,
+          2.725
+        ]
+      },
+      "glb_triangles": 808,
+      "render_bytes": [
+        1059880,
+        1049121,
+        1075313
+      ]
+    },
+    {
+      "id": "P06",
+      "name": "Presa Espectral",
+      "stem": "BH_PICK_P06_Presa_Espectral_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          1.901,
+          0.44,
+          2.32
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          1.901,
+          0.44,
+          2.32
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1026642,
+        1016357,
+        1045408
+      ]
+    },
+    {
+      "id": "P07",
+      "name": "Marreta Lunar Fragmentada",
+      "stem": "BH_PICK_P07_Marreta_Lunar_Fragmentada_V01",
+      "master": {
+        "meshes": 15,
+        "triangles": 1216,
+        "dimensions": [
+          2.141,
+          0.58,
+          2.31
+        ]
+      },
+      "game": {
+        "meshes": 10,
+        "triangles": 792,
+        "dimensions": [
+          2.141,
+          0.573,
+          2.31
+        ]
+      },
+      "glb_triangles": 792,
+      "render_bytes": [
+        1035026,
+        1030854,
+        1058116
+      ]
+    },
+    {
+      "id": "P08",
+      "name": "Picareta Fúria de Safira",
+      "stem": "BH_PICK_P08_Picareta_Furia_de_Safira_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          1.921,
+          0.508,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          1.921,
+          0.495,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1038381,
+        1024041,
+        1057155
+      ]
+    },
+    {
+      "id": "P09",
+      "name": "Picareta do Espinhal Assombrado",
+      "stem": "BH_PICK_P09_Picareta_do_Espinhal_Assombrado_V01",
+      "master": {
+        "meshes": 16,
+        "triangles": 1172,
+        "dimensions": [
+          1.841,
+          0.44,
+          2.32
+        ]
+      },
+      "game": {
+        "meshes": 11,
+        "triangles": 796,
+        "dimensions": [
+          1.841,
+          0.44,
+          2.32
+        ]
+      },
+      "glb_triangles": 796,
+      "render_bytes": [
+        1044778,
+        1038697,
+        1059374
+      ]
+    },
+    {
+      "id": "P10",
+      "name": "Picareta Gelo Fantasma",
+      "stem": "BH_PICK_P10_Picareta_Gelo_Fantasma_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          2.021,
+          0.482,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          2.021,
+          0.472,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1038658,
+        1029333,
+        1050711
+      ]
+    },
+    {
+      "id": "P11",
+      "name": "Rachadora das Ruínas",
+      "stem": "BH_PICK_P11_Rachadora_das_Ruinas_V01",
+      "master": {
+        "meshes": 15,
+        "triangles": 1216,
+        "dimensions": [
+          1.881,
+          0.614,
+          2.31
+        ]
+      },
+      "game": {
+        "meshes": 10,
+        "triangles": 792,
+        "dimensions": [
+          1.881,
+          0.641,
+          2.31
+        ]
+      },
+      "glb_triangles": 792,
+      "render_bytes": [
+        1039336,
+        1032415,
+        1057120
+      ]
+    },
+    {
+      "id": "P12",
+      "name": "Picareta de Magma Profano",
+      "stem": "BH_PICK_P12_Picareta_de_Magma_Profano_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          2.081,
+          0.44,
+          2.32
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          2.081,
+          0.44,
+          2.32
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1039730,
+        1032844,
+        1052787
+      ]
+    },
+    {
+      "id": "P13",
+      "name": "Foice de Ecos Noturnos",
+      "stem": "BH_PICK_P13_Foice_de_Ecos_Noturnos_V01",
+      "master": {
+        "meshes": 17,
+        "triangles": 1184,
+        "dimensions": [
+          2.322,
+          0.44,
+          2.726
+        ]
+      },
+      "game": {
+        "meshes": 12,
+        "triangles": 808,
+        "dimensions": [
+          2.322,
+          0.44,
+          2.726
+        ]
+      },
+      "glb_triangles": 808,
+      "render_bytes": [
+        1063927,
+        1052824,
+        1083098
+      ]
+    },
+    {
+      "id": "P14",
+      "name": "Picareta de Quartzo Celestial",
+      "stem": "BH_PICK_P14_Picareta_de_Quartzo_Celestial_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          1.841,
+          0.493,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          1.841,
+          0.49,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1030273,
+        1018217,
+        1049717
+      ]
+    },
+    {
+      "id": "P15",
+      "name": "Picareta Véu das Almas",
+      "stem": "BH_PICK_P15_Picareta_Veu_das_Almas_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          2.061,
+          0.44,
+          2.32
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          2.061,
+          0.44,
+          2.32
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1028094,
+        1025456,
+        1046564
+      ]
+    },
+    {
+      "id": "P16",
+      "name": "Fragmento Void",
+      "stem": "BH_PICK_P16_Fragmento_Void_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          2.16,
+          0.487,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          2.16,
+          0.484,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1036785,
+        1028384,
+        1056525
+      ]
+    },
+    {
+      "id": "P17",
+      "name": "Orbital do Vazio",
+      "stem": "BH_PICK_P17_Orbital_do_Vazio_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1240,
+        "dimensions": [
+          2.22,
+          0.34,
+          2.457
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 864,
+        "dimensions": [
+          2.22,
+          0.34,
+          2.457
+        ]
+      },
+      "glb_triangles": 864,
+      "render_bytes": [
+        1029674,
+        1022294,
+        1067340
+      ]
+    },
+    {
+      "id": "P18",
+      "name": "Ceifadora Demoníaca",
+      "stem": "BH_PICK_P18_Ceifadora_Demoniaca_V01",
+      "master": {
+        "meshes": 17,
+        "triangles": 1184,
+        "dimensions": [
+          2.282,
+          0.44,
+          2.726
+        ]
+      },
+      "game": {
+        "meshes": 12,
+        "triangles": 808,
+        "dimensions": [
+          2.282,
+          0.44,
+          2.726
+        ]
+      },
+      "glb_triangles": 808,
+      "render_bytes": [
+        1070142,
+        1056113,
+        1086675
+      ]
+    },
+    {
+      "id": "P19",
+      "name": "Picareta Divindade Aurora",
+      "stem": "BH_PICK_P19_Picareta_Divindade_Aurora_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          1.961,
+          0.494,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          1.961,
+          0.492,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1046752,
+        1030796,
+        1053041
+      ]
+    },
+    {
+      "id": "P20",
+      "name": "Picareta Glacial Abissal",
+      "stem": "BH_PICK_P20_Picareta_Glacial_Abissal_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          2.061,
+          0.482,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          2.061,
+          0.488,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1035496,
+        1026635,
+        1060137
+      ]
+    },
+    {
+      "id": "P21",
+      "name": "Picareta Glitch Hacker",
+      "stem": "BH_PICK_P21_Picareta_Glitch_Hacker_V01",
+      "master": {
+        "meshes": 16,
+        "triangles": 1084,
+        "dimensions": [
+          1.801,
+          0.385,
+          2.31
+        ]
+      },
+      "game": {
+        "meshes": 11,
+        "triangles": 708,
+        "dimensions": [
+          1.801,
+          0.385,
+          2.31
+        ]
+      },
+      "glb_triangles": 708,
+      "render_bytes": [
+        1028553,
+        1021902,
+        1051498
+      ]
+    },
+    {
+      "id": "P22",
+      "name": "Código Fantasma",
+      "stem": "BH_PICK_P22_Codigo_Fantasma_V01",
+      "master": {
+        "meshes": 16,
+        "triangles": 1084,
+        "dimensions": [
+          2.001,
+          0.385,
+          2.31
+        ]
+      },
+      "game": {
+        "meshes": 11,
+        "triangles": 708,
+        "dimensions": [
+          2.001,
+          0.385,
+          2.31
+        ]
+      },
+      "glb_triangles": 708,
+      "render_bytes": [
+        1031939,
+        1025304,
+        1052611
+      ]
+    },
+    {
+      "id": "P23",
+      "name": "Picareta Rei Abóbora",
+      "stem": "BH_PICK_P23_Picareta_Rei_Abobora_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1148,
+        "dimensions": [
+          2.261,
+          0.53,
+          2.37
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 772,
+        "dimensions": [
+          2.261,
+          0.53,
+          2.37
+        ]
+      },
+      "glb_triangles": 772,
+      "render_bytes": [
+        1059624,
+        1052514,
+        1062924
+      ]
+    },
+    {
+      "id": "P24",
+      "name": "Ceifadora do Crepúsculo",
+      "stem": "BH_PICK_P24_Ceifadora_do_Crepusculo_V01",
+      "master": {
+        "meshes": 17,
+        "triangles": 1184,
+        "dimensions": [
+          2.422,
+          0.44,
+          2.726
+        ]
+      },
+      "game": {
+        "meshes": 12,
+        "triangles": 808,
+        "dimensions": [
+          2.422,
+          0.44,
+          2.726
+        ]
+      },
+      "glb_triangles": 808,
+      "render_bytes": [
+        1062275,
+        1054015,
+        1087702
+      ]
+    },
+    {
+      "id": "P25",
+      "name": "Picareta Natal Sombrio",
+      "stem": "BH_PICK_P25_Picareta_Natal_Sombrio_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1108,
+        "dimensions": [
+          2.041,
+          0.474,
+          2.39
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 716,
+        "dimensions": [
+          2.041,
+          0.491,
+          2.39
+        ]
+      },
+      "glb_triangles": 716,
+      "render_bytes": [
+        1036889,
+        1029548,
+        1052364
+      ]
+    },
+    {
+      "id": "P26",
+      "name": "Picareta Eclipse Enjaulado",
+      "stem": "BH_PICK_P26_Picareta_Eclipse_Enjaulado_V01",
+      "master": {
+        "meshes": 14,
+        "triangles": 1240,
+        "dimensions": [
+          2.18,
+          0.34,
+          2.457
+        ]
+      },
+      "game": {
+        "meshes": 9,
+        "triangles": 864,
+        "dimensions": [
+          2.18,
+          0.34,
+          2.457
+        ]
+      },
+      "glb_triangles": 864,
+      "render_bytes": [
+        1033071,
+        1023142,
+        1069682
+      ]
+    },
+    {
+      "id": "P27",
+      "name": "Picareta Dragão Mineral",
+      "stem": "BH_PICK_P27_Picareta_Dragao_Mineral_V01",
+      "master": {
+        "meshes": 18,
+        "triangles": 1292,
+        "dimensions": [
+          2.42,
+          0.44,
+          2.8
+        ]
+      },
+      "game": {
+        "meshes": 13,
+        "triangles": 884,
+        "dimensions": [
+          2.42,
+          0.44,
+          2.8
+        ]
+      },
+      "glb_triangles": 884,
+      "render_bytes": [
+        1095685,
+        1081167,
+        1107624
+      ]
+    },
+    {
+      "id": "P28",
+      "name": "Picareta Núcleo Prime",
+      "stem": "BH_PICK_P28_Picareta_Nucleo_Prime_V01",
+      "master": {
+        "meshes": 18,
+        "triangles": 1384,
+        "dimensions": [
+          2.36,
+          0.34,
+          2.8
+        ]
+      },
+      "game": {
+        "meshes": 13,
+        "triangles": 976,
+        "dimensions": [
+          2.36,
+          0.34,
+          2.8
+        ]
+      },
+      "glb_triangles": 976,
+      "render_bytes": [
+        1077452,
+        1071137,
+        1108913
+      ]
+    }
+  ]
+}
